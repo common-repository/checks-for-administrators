@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Checks for Administrators v.0.0.2\n"
+"POT-Creation-Date: 2013-10-11 19:38+1200\n"
+"PO-Revision-Date: 2013-10-11 19:55+1200\n"
+"Last-Translator: Javier Glez R <JavierGlezR@hotmail.es>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\Personal Javi\\DropBox\\Proyectos Web\\Apache_PHP"
+"\\WordPress_Developer\\wp-content\\plugins\\checks-for-administrators\n"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:26
+msgid "Checks Settings"
+msgstr "Ajustes de Checks"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:26
+msgid "Checks for Admin"
+msgstr "Checks for Admin"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:31
+msgid "Small padawan ... you must use the force to enter here."
+msgstr "Pequeño padawan... debes utilizar la fuerza para entrar aquí."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:49
+msgid "Checks for Administrators"
+msgstr "Checks for Administrators"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:54
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:57
+msgid "Description when is checked"
+msgstr "Descripción marcado"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:63
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:66
+msgid "Description when is unchecked"
+msgstr "Descripción desmarcado"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:72
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:75
+msgid "Type of checks"
+msgstr "Tipos de checks"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:82
+msgid "Check"
+msgstr "Check"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:83
+msgid "Uncheck"
+msgstr "Uncheck"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:84
+msgid "Type: "
+msgstr "Tipo: "
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:84
+msgid "Size: "
+msgstr "Tamaño: "
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:103
+msgid "How to use"
+msgstr "Modo de uso"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:105
+msgid ""
+"<p align=\"justify\">To display the checks in the post, you have to write "
+"the following pattern directly on the content:</p><center><b style=\"font-"
+"size:17px;\">[CA value=\"x\" OPTIONS]</b></center><p align=\"justify\">where "
+"\"x\" represents 1 for check or 0 for uncheck. For example: <b>[CA value="
+"\"1\"]</b>.</p>"
+msgstr ""
+"<p align=\"justify\">Para mostrar los checks en un post, tienes que poner el "
+"siguiente patrón directamente en el contenido:</p><center><b style=\"font-"
+"size:17px;\">[CA value=\"x\" OPCIONES]</b></center><p align=\"justify"
+"\">donde \"x\" representa 1 para el check y 0 para el uncheck. Por ejemplo: "
+"<b>[CA value=\"1\"]</b>."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:106
+msgid ""
+"<h6 style=\"font-size:1.2em; margin-bottom:0px; text-align:center;"
+"\">Options</h6><ul style=\"text-indent:10px; margin-top:5px;\"><li><b>type</"
+"b>: Represents a specific type of check (e.g.: [CA value=\"1\" type=\"3CP"
+"\"]).</li><li><b>description</b>: Represents the description of the check. "
+"The value can not be more than 40 caracters (e.g.: [CA value=\"1\" "
+"description=\"We visited this place.\"]).</li></ul>"
+msgstr ""
+"<h6 style=\"font-size:1.2em; margin-bottom:0px; text-align:center;"
+"\">Opciones</h6><ul style=\"text-indent:10px; margin-top:5px;\"><li><b>type</"
+"b>: Representa un tipo específico de check (ej.: [CA value=\"1\" type=\"3CP"
+"\"]).</li><li><b>description</b>: Representa la descripción del check. El "
+"valor no puede ser de más de 40 caráctares (ej.: [CA value=\"1\" description="
+"\"Nosotros visitamos este sitio.\"]).</li></ul>"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:110
+msgid "About this plugin"
+msgstr "Sobre este plugin"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:112
+msgid "PlugIn Web Site"
+msgstr "Página Web del PlugIn"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:114
+msgid "Request new features"
+msgstr "Solicitar nuevas características"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:116
+msgid "Report a error"
+msgstr "Reportar un error"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:161
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:163
+msgid "Settings NOT saved. There are error(s)."
+msgstr "Ajustes NO guardados. Hay error(es)."
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/checks-for-administrators.php:230
+msgid "Settings"
+msgstr "Ajustes"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:7
+msgid "Normal Check PNG"
+msgstr "Check Normal PNG"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:8
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:23
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:38
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:53
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:68
+msgid "Description"
+msgstr "Descripción"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:22
+msgid "3D Check PNG"
+msgstr "Check 3D PNG"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:37
+msgid "Normal Check GIF"
+msgstr "Check Normal GIF"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:52
+msgid "Rounded Check PNG"
+msgstr "Check Redondeado PNG"
+
+#: D:\Personal Javi\DropBox\Proyectos
+#: Web\Apache_PHP\WordPress_Developer\wp-content\plugins\checks-for-administrators/inc/checks.php:67
+msgid "Big 3D Check PNG"
+msgstr "Check 3D Grande PNG"
+
+#~ msgid "Star Rate Settings"
+#~ msgstr "Star Rate Ajustes"
+
+#~ msgid "Number of stars"
+#~ msgstr "Número de estrellas"
+
+#~ msgid "From 0 to 5 stars"
+#~ msgstr "De 0 a 5 estrellas"
+
+#~ msgid "From 0 to 10 stars"
+#~ msgstr "De 0 a 10 estrellas"
+
+#~ msgid "Show only colored"
+#~ msgstr "Mostrar sólo coloreadas"
+
+#~ msgid "Show only colored stars"
+#~ msgstr "Mostrar sólo estrellas coloreadas"
+
+#, fuzzy
+#~ msgid "Round the value for not showing half star"
+#~ msgstr "Redondear el valor para no mostrar estrellas medias"
+
+#~ msgid "Full star"
+#~ msgstr "Estrella Completa"
+
+#~ msgid "Half star"
+#~ msgstr "Media Estrella"
+
+#~ msgid "Empty star"
+#~ msgstr "Estrella vacía"
+
+#~ msgid "The score is: %s over %d"
+#~ msgstr "La puntuación es: %s sobre %d"
+
+#, fuzzy
+#~ msgid "Orange Small"
+#~ msgstr "Estrella Naranja"
+
+#~ msgid "Gold Star"
+#~ msgstr "Estrella Dorada"
+
+#~ msgid "Orange Star"
+#~ msgstr "Estrella Naranja"
+
+#~ msgid "Yellow Star"
+#~ msgstr "Estrella Amarilla"
+
+#, fuzzy
+#~ msgid "Big Star"
+#~ msgstr "Estrella Naranja"
